@@ -2,7 +2,7 @@
 
 ## 📌 Objective
 
-Analyze sales performance across regions, categories, and products using Power BI.
+Analyze sales performance across categories, products, and shipping modes using Power BI.
 
 ---
 
@@ -23,15 +23,15 @@ Analyze sales performance across regions, categories, and products using Power B
 ## KPIs
 * Total Sales: 14.92M
 * Total Profit: 1.52M
-* Total Orders: 8399
+* Total Quantity: 215K
 
 ---
 
 ## Visualizations
-* Region-wise Sales
 * Category-wise Sales
-* Profit by Region
-* Top 10 Products
+* Profit by Year
+* Order Quantity by Category
+* Sales by ship Mode
 
 ---
 
@@ -52,10 +52,10 @@ Analyze sales performance across regions, categories, and products using Power B
 
 ## 📈 Key Insights
 
-* West generated the highest sales revenue.
-* Technology was the highest-performing product category.
-* Ontario was among the top-performing regions.
-* Several products generated negative profit and require further investigation.
+* Technology generated the highest sales: ₹5.98M (40.12%).
+* Regular Air had the highest sales: ₹7.5M.
+* Profit was highest in 2009 (₹422K) and lowest in 2012 (₹345K).
+* Overall profit margin was 10.2%
 
 ---
 
